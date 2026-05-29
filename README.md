@@ -16,7 +16,6 @@ Main data:
 - V-Dem indices v15 — [V-Dem Dataset Archive → Core v15] (https://www.v-dem.net/data/dataset-archive/)
 
 Control variables:
-Control variables:
 - ln(GDP per capita, PPP) — [World Bank] (https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD)
 - Unemployment rate — [World Bank] (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
 - Age dependency ratio — [World Bank] (https://data.worldbank.org/indicator/SP.POP.DPND.OL)
